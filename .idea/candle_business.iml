@@ -29,6 +29,7 @@
       <list>
         <option value="$MODULE_DIR$/templates" />
         <option value="$MODULE_DIR$/candle/templates" />
+        <option value="$MODULE_DIR$/about/templates" />
       </list>
     </option>
   </component>
